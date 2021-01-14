@@ -1,8 +1,5 @@
 ### Hi there, I am Kamran 👋 :computer:
 
-<!--
-**kamranesmaeili/kamranesmaeili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a data analyst/software engineer, currently finalising my PhD on monitoring machine health using data analystics, advanced sensing and signal processing techniques.
 
 - 🔭 I’m passionate about R and Python.
