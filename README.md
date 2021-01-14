@@ -1,6 +1,6 @@
 ### Hi there, I am Kamran 👋 :computer:
 
-I am a data analyst/software engineer, currently finalising my PhD on monitoring machine health using data analystics, advanced sensing and signal processing techniques.
+I am a data analyst/developer, currently finalising my PhD on monitoring machine health using data analystics, advanced sensing and signal processing techniques.
 
 - 🔭 I’m passionate about R and Python.
 - 🌱 I’m currently learning MongoDB, Express, React and NodeJS (MERN)
